@@ -14,5 +14,13 @@ RF model for EPB shield thrust: MAPE = 3.28%
 RF model for EPB shield torque: MAPE = 4.75%
 
 These four models were selected from a broader set of machine learning models based on having the lowest MAPE, representing the most accurate performance in predicting shield loads.
+
 ![image](https://github.com/user-attachments/assets/7371271f-ae82-4881-b740-345233321d0b)
+
 ![image](https://github.com/user-attachments/assets/c46937c7-fed5-4c57-a861-b708cab8fd64)
+
+![image](https://github.com/user-attachments/assets/1eecf059-93cb-418c-a971-aefa11abb984)
+
+![image](https://github.com/user-attachments/assets/fa16c644-c938-4f9e-ba41-799ce565f15c)
+
+![image](https://github.com/user-attachments/assets/b5c1c728-849d-4c94-a057-ebf1f04e353c)
